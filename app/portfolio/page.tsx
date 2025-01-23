@@ -2,10 +2,10 @@ export default function Projects() {
     return (
         <main className="flex items-center justify-center min-h-screen">
             <section className="border-2 border-black dark:border-white p-8 m-8">
-                <h1 className="text-4xl font-bold">What I've Done.</h1>
+                <h1 className="text-4xl font-bold">What I&apos;ve Done.</h1>
                 <h2 className="text-3xl font-bold mt-4">Projects</h2>
                 <p className="mt-4 text-lg">
-                    Here are some of the projects I've worked on in the past.
+                    Here are some of the projects I&apos;ve worked on in the past.
                 </p>
                 <ul className="mt-4 list-inside">
                     <li>
@@ -24,7 +24,7 @@ export default function Projects() {
                     <li className="mt-4">
                         <h3 className="text-xl font-bold">Student Union Tech</h3>
                         <ul className="list-disc ml-4 text-lg">
-                            <li>Led development of this project which ultimately streamlined communication between teams across the university's student union.</li>
+                            <li>Led development of this project which ultimately streamlined communication between teams across the university&apos;s student union.</li>
                             <li>Utilized Jigsaw and BitBucket Pipelines to deliver fast static content delivery and reduce the overhead for deployments.</li>
                             <li>Leveraged Microsoft PowerAutomate on request forms to reduce development time, offering robust low-code solutions.</li>
                         </ul>
@@ -39,7 +39,7 @@ export default function Projects() {
                         <ul className="list-disc ml-4 text-lg">
                             <li>Leverages GitHub pages for reliable hosting.</li>
                             <li>Integrates a GitHub Action workflow to automate deployment on pushes.</li>
-                            <li>Utilizes Next.JS and Tailwind to provide a performative and (dare I say stylish) web presence. Next.JS's "Link" component is used to reduce load times across pages, further increasing performance.</li>
+                            <li>Utilizes Next.JS and Tailwind to provide a performative and (dare I say stylish) web presence. Next.JS&apos;s "Link" component is used to reduce load times across pages, further increasing performance.</li>
                         </ul>
                         <p className="font-bold text-lg">Next.JS, React, CI/CD, GitHub Pages</p>
                     </li>

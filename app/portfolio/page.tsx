@@ -39,7 +39,7 @@ export default function Projects() {
                         <ul className="list-disc ml-4 text-lg">
                             <li>Leverages GitHub pages for reliable hosting.</li>
                             <li>Integrates a GitHub Action workflow to automate deployment on pushes.</li>
-                            <li>Utilizes Next.JS and Tailwind to provide a performative and (dare I say stylish) web presence. Next.JS&apos;s "Link" component is used to reduce load times across pages, further increasing performance.</li>
+                            <li>Utilizes Next.JS and Tailwind to provide a performative and (dare I say stylish) web presence. Next.JS&apos;s &quot;Link&quot; component is used to reduce load times across pages, further increasing performance.</li>
                         </ul>
                         <p className="font-bold text-lg">Next.JS, React, CI/CD, GitHub Pages</p>
                     </li>

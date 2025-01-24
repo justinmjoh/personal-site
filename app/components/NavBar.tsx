@@ -1,9 +1,11 @@
 import Link from "next/link"
-import localFont from "next/font/local"
+import { Over_the_Rainbow } from "next/font/google"
 
-const overTheRainbow = localFont({
-    src: "./OverTheRainbow-Regular.ttf"
-});
+const overTheRainbow = Over_the_Rainbow({
+    weight: "400",
+    subsets: ["latin"],
+    display: "swap"
+})
 
 export default function NavBar() {
     return (

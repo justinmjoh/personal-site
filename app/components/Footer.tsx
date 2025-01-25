@@ -15,7 +15,7 @@ export default function Footer() {
                 <li><a href="https://github.com/justinmjoh" target="_blank" rel="noopener noreferrer" className="text-yellow-600 hover:underline"><FontAwesomeIcon icon={faGithub} size="lg"/></a></li>
                 <li><a href="mailto:justinmjoh@gmail.com" className="text-yellow-600 hover:underline"><FontAwesomeIcon icon={faEnvelope} size="lg"/></a></li>
             </ul>
-            <p>© 2024 Justin Johnson</p>
+            <p>© {new Date().getFullYear()} Justin Johnson</p>
         </footer>
     )
 }

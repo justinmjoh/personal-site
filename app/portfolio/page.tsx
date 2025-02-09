@@ -17,7 +17,7 @@ export default function Projects() {
                         <ul className="list-disc ml-4 text-lg">
                             <li>Communicated with business and marketing teams across campus to design an engaging and user friendly UI for customers nationwide.</li>
                             <li>Helped train e-Commerce team members on the NetSuite CMS, streamlining content updates to the site.</li>
-                            <li>Extended the CMS with custom components, allowing for image carousels improved clickable dropdowns.</li>
+                            <li>Extended the CMS with custom components, allowing for image carousels and improved clickable dropdowns.</li>
                         </ul>
                         <p className="font-bold text-lg">NetSuite, HTML, JavaScript, CSS</p>
                     </li>
